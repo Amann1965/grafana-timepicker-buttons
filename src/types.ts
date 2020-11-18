@@ -1,1 +1,1 @@
-export type TimepickerData = { text: string; time_from: number; time_to?: number; primary?: boolean; errors: string[] };
+export type TimepickerData = { text: string; Dt: number; time_to?: number; primary?: boolean; errors: string[] };
